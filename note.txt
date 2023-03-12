@@ -1,0 +1,3 @@
+flutter_lorem: tạo văn bản ngẫu nhiên
+google_fonts: phông chữ (openSans)
+class rotateBox: xoay chữ
